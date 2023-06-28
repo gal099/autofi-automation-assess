@@ -12,7 +12,7 @@ git clone git@github.com:gal099/autofi-automation-assess.git
 ```
 2. Enter the folder
 ```bash
-cd autom_assess
+cd autofi-automation-assess
 ```
 3. NVM installation
 ```bash
