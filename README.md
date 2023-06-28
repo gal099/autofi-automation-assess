@@ -8,7 +8,7 @@ Create an interaction with a website where the URL tutorialspoint.com/html/html_
 
 1. Clone the repository
 ```bash
-git clone git@github.com:gal099/autofi-automation-assess.git
+git clone https://github.com/gal099/autofi-automation-assess.git
 ```
 2. Enter the folder
 ```bash
