@@ -18,7 +18,7 @@ cd autofi-automation-assess
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 ```
-4. Node installation
+4. Node selection
 ```bash
 nvm use
 ```
