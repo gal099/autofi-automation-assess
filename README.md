@@ -18,10 +18,12 @@ cd autofi-automation-assess
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 ```
-4. Node selection
+4. Node installation
+
 ```bash
-nvm use
+nvm install v18.16.1
 ```
+
 5. Run `npm install` command. After that, you will be able to start running the tests.
 ```bash
 npm install
